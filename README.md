@@ -2,7 +2,7 @@
 
 This is a little interactive project I made for Valentine's Day :3 
 
-Its essentially interactive card designed to be played in the browser.
+At first glance it looks like a regular digital card, but after a while it turns out to be a tiny video game where you use a little character to make your choice.
 
 You can play it here: **[aluszka.itch.io/valentine26](https://aluszka.itch.io/valentine26)**
 
